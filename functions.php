@@ -158,7 +158,7 @@ function tortuga_scripts() {
 	wp_enqueue_script( 'tortuga-jquery-navigation', get_template_directory_uri() . '/js/navigation.js', array( 'jquery' ), '20160719' );
 
 	// Register and Enqueue Google Fonts.
-	wp_enqueue_style( 'tortuga-default-fonts', tortuga_google_fonts_url(), array(), null );
+	//wp_enqueue_style( 'tortuga-default-fonts', tortuga_google_fonts_url(), array(), null );
 
 	// Register Comment Reply Script for Threaded Comments.
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {

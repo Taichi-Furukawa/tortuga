@@ -4,7 +4,7 @@ Theme URI: https://themezee.com/themes/tortuga/
 Author: ThemeZee
 Author URI: https://themezee.com
 Description: Tortuga is a highly flexible and adventurous WordPress theme for your pirate magazine or any news related website. It supports three different post layouts, two sidebar schemes and a Magazine Homepage template based on widgets. Other highlights of Tortuga are the beautiful post slider and header widgets area. Arrr!
-Version: 1.4.2
+Version: 1.4.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: tortuga
@@ -64,7 +64,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 # 1.0 - Normalize
 --------------------------------------------------------------*/
 html {
-	font-family: sans-serif;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust:     100%;
 }
@@ -184,7 +184,7 @@ kbd,
 pre,
 samp {
 	font-size: 1em;
-	font-family: monospace, monospace;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 }
 
 button,
@@ -290,7 +290,7 @@ textarea {
 	color: #303030;
 	font-size: 17px;
 	font-size: 1.0625rem;
-	font-family: 'Open Sans', Tahoma, Arial;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 	line-height: 1.75;
 }
 
@@ -331,7 +331,7 @@ pre {
 	background: #fff;
 	font-size: 15px;
 	font-size: 0.9375rem;
-	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 	line-height: 1.6;
 }
 
@@ -341,7 +341,7 @@ tt,
 var {
 	font-size: 15px;
 	font-size: 0.9375rem;
-	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 }
 
 abbr,
@@ -716,7 +716,7 @@ textarea {
 	font-weight: normal;
 	font-size: 36px;
 	font-size: 2.25rem;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 }
 
 .site-title a:link,
@@ -816,7 +816,7 @@ textarea {
 	text-transform: uppercase;
 	font-size: 16px;
 	font-size: 1rem;
-	font-family: 'Titillium Web', Tahoma, Arial;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 	transition: all 0.2s ease;
 	color: #fff;
 }
@@ -1051,7 +1051,7 @@ textarea {
 	font-weight: normal;
 	font-size: 20px;
 	font-size: 1.25rem;
-	font-family: 'Titillium Web', Tahoma, Arial;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 }
 
 .widget ul {
@@ -1376,7 +1376,7 @@ textarea {
 	font-weight: normal;
 	font-size: 28px;
 	font-size: 1.75rem;
-	font-family: 'Titillium Web', Tahoma, Arial;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 }
 
 .entry-title a:link,
@@ -1810,7 +1810,7 @@ body.date-hidden.author-hidden.categories-hidden.comments-hidden .content-area .
 	font-weight: normal;
 	font-size: 20px;
 	font-size: 1.25rem;
-	font-family: 'Titillium Web', Tahoma, Arial;
+	font-family: '游ゴシック体', 'Yu Gothic', 'YuGothic', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', sans-serif;
 }
 
 /* Comment List */
@@ -1979,8 +1979,6 @@ object {
 .wp-caption {
 	margin-bottom: 1.5em;
 	max-width: 100%;
-	font-size: 13px;
-	font-size: 0.8125rem;
 }
 
 .wp-caption img[class*="wp-image-"] {
@@ -2000,14 +1998,14 @@ object {
 ## 13.2 - Galleries
 --------------------------------------------------------------*/
 .gallery {
-	margin-bottom: 1em;
+	margin-bottom: 1.25em;
 }
 
 .gallery-item {
 	display: inline-block;
 	box-sizing: border-box;
 	margin: 0;
-	padding: 0 1em 0.75em 0;
+	padding: 0.75em 1em 0 0;
 	width: 100%;
 	vertical-align: top;
 	text-align: center;
@@ -2049,7 +2047,6 @@ object {
 	display: block;
 	font-size: 13px;
 	font-size: 0.8125rem;
-	margin-bottom: 0.75em;
 }
 
 /*--------------------------------------------------------------
@@ -2450,18 +2447,6 @@ object {
 		font-size: 1.25rem;
 	}
 
-	/* Gallery */
-	.gallery-item {
-		padding: 0 0.75em 0.5em 0;
-	}
-
-	.gallery-columns-6 .gallery-item,
-	.gallery-columns-7 .gallery-item,
-	.gallery-columns-8 .gallery-item,
-	.gallery-columns-9 .gallery-item {
-		max-width: 25%;
-	}
-
 	/* Magazine Post Widgets */
 	.widget-magazine-posts .large-post .entry-title {
 		font-size: 20px;
@@ -2644,16 +2629,6 @@ object {
 	.alignright, .alignleft {
 		float: none;
 		margin: 1em 0;
-	}
-
-	/* Gallery */
-	.gallery-columns-4 .gallery-item,
-	.gallery-columns-5 .gallery-item,
-	.gallery-columns-6 .gallery-item,
-	.gallery-columns-7 .gallery-item,
-	.gallery-columns-8 .gallery-item,
-	.gallery-columns-9 .gallery-item {
-		max-width: 50%;
 	}
 
 	/* Magazine Homepage: Category Post Widgets */
